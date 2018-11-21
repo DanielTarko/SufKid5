@@ -7,7 +7,8 @@ h1{
 	text-align: center;
 	color: #ffe100;
 	margin: 0;
-	padding-top: 100px;
+	padding-top: 20%;
+	padding-bottom: 30%;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 60px;
 }
@@ -31,6 +32,7 @@ h3{
 	padding-bottom: 1px;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	font-size: 30px;
+	line-height: 700px;
 
 }
 
@@ -62,5 +64,12 @@ min-height: 700px;
 
 #mark5 {
 	background-image: url("IMG_3286.jpg");
+}
+
+.name{
+	display: inline-block;
+	color: black;
+		text-align: center;
+
 }
 
